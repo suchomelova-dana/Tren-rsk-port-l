@@ -1,2 +1,2 @@
-# Tren-rsk-port-l
+# Trenérský portál
 Vue.js projekt pro web Trenérský portál
