@@ -16,5 +16,6 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
-  }
+  },
+  "optionalDependencies": { "fsevents": "2.1.2"     }
 }
